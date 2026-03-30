@@ -30,7 +30,16 @@ in
       ms-python.python
       ms-vscode.powershell
       hashicorp.terraform
+      eamodio.gitlens
     ];
+    profiles.default.userSettings = {
+      "terminal.integrated.defaultProfile.linux" = "zsh";
+      "terminal.integrated.profiles.linux" = {
+        "zsh" = {
+          "path" = "zsh";
+        };
+      };
+    };
   };
 
   # ── Zsh ──────────────────────────────────────────────────────────────────────
@@ -77,6 +86,7 @@ in
       user.email = "andersmyt@gmail.com";
       init.defaultBranch = "main";
       pull.rebase = true;
+      signing.format = "openpgp";
     };
   };
 
