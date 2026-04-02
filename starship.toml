@@ -53,7 +53,7 @@ disabled = true
 disabled = true
 
 [python]
-format = "[$symbol$version]($style) "
+format = "[$symbol$version( \\($virtualenv\\))]($style) "
 style = "bold green"
 
 [time]
