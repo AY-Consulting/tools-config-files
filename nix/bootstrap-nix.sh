@@ -3,7 +3,7 @@
 # Usage: curl -fsSL https://raw.githubusercontent.com/YOU/dotfiles/main/bootstrap.sh | bash
 set -euo pipefail
 
-USERNAME="ay-dev-host"
+USERNAME="ay-dev-host" # Update variable
 DOTFILES_REPO="https://github.com/YOU/dotfiles.git"   # ← update this
 DOTFILES_DIR="/home/$USERNAME/dotfiles"
 

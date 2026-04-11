@@ -51,13 +51,13 @@ git clone git@github.com:AY-Consulting/tools-config-files.git ~/Repos/AY-Consult
 ### 4. Apply
 ```bash
 mv ~/.zshrc ~/.zshrc.bak  # backup existing zshrc if needed
-nix run home-manager/master -- switch --flake ~/Repos/AY-Consulting/tools-config-files/nix#andersyt
+nix run home-manager/master -- switch --flake ~/Repos/AY-Consulting/tools-config-files/nix#ay-dev-setup
 ```
 
 ### Updating
 Edit any file under `nix/`, then run:
 ```bash
-home-manager switch --flake ~/Repos/AY-Consulting/tools-config-files/nix#andersyt
+home-manager switch --flake ~/Repos/AY-Consulting/tools-config-files/nix#ay-dev-setup
 ```
 
 ---

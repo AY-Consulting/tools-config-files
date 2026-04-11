@@ -18,7 +18,7 @@
     in {
       homeConfigurations = {
         # Your dev machine (macOS or Linux)
-        "andersyt" = mkHome "x86_64-linux" ./profiles/dev-setup.nix;
+        "andersyt-dev" = mkHome "x86_64-linux" ./profiles/dev-setup.nix;
 
         # Your Ubuntu Docker VM
         "ay-dev-host" = mkHome "x86_64-linux" ./profiles/dev-hosting.nix;
