@@ -19,6 +19,7 @@
       gpom  = "git pull origin main";
       gckm  = "git checkout main";
       gckb  = "git checkout -b";
+      gpull  = "git pull";
     };
   };
 
