@@ -1,0 +1,14 @@
+<svg width="234" height="240" viewBox="0 0 234 240" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect y="115" width="10" height="125" fill="#2A82A8"/>
+<rect x="39" y="51" width="10" height="39" fill="#2A82A8"/>
+<rect x="185" y="51" width="10" height="189" fill="#2A82A8"/>
+<rect x="39" y="113" width="10" height="125" fill="#2A82A8"/>
+<rect x="194" y="230" width="10" height="155" transform="rotate(90 194 230)" fill="#2A82A8"/>
+<rect x="224" y="115" width="10" height="125" fill="#2A82A8"/>
+<rect x="112" y="46.3729" width="9.24387" height="139.672" transform="rotate(-56.855 112 46.3729)" fill="#2A82A8"/>
+<rect width="9.24387" height="139.672" transform="matrix(-0.546759 -0.83729 -0.83729 0.546759 122 46.3729)" fill="#2A82A8"/>
+<rect x="112" y="7.7398" width="9.24387" height="93.3" transform="rotate(-56.855 112 7.7398)" fill="#2A82A8"/>
+<rect width="9.24387" height="93.3012" transform="matrix(-0.546759 -0.83729 -0.83729 0.546759 122 7.7398)" fill="#2A82A8"/>
+<rect x="67" y="113" width="10" height="22" transform="rotate(90 67 113)" fill="#2A82A8"/>
+<path d="M159.93 101.949C163.544 105.563 163.544 111.381 159.93 114.934L136.104 138.76L149.089 195.049L140.452 203.746L116.687 158.238L92.7999 182.125L95.0049 197.254L88.4512 203.746L77.6712 184.269L58.1324 173.428L64.6249 166.813L79.9374 169.079L103.641 145.375L58.1324 121.426L66.8299 112.79L123.119 125.775L146.945 101.949C150.375 98.3963 156.5 98.3963 159.93 101.949Z" fill="#BF2025"/>
+</svg>
