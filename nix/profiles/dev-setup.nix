@@ -8,6 +8,7 @@ in
   imports = [
     ../modules/git.nix
     ../modules/zsh.nix
+    ../modules/kubernetes.nix
   ];
 
   nixpkgs.config.allowUnfree = true;
